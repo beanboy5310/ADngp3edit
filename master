@@ -4,7 +4,7 @@
 <html>
 
 <head>
-	<title>sifdweyfwytrwqe8723648765237869iyusdqwe</title>
+	<title>Antimatter Dimensions</title>
 	<link rel="icon" type="image/png" href="icon.png">
 	<meta name="Antimatter Dimensions" content="A game about huge numbers and watching them go up." charset="utf-8"/>
 	<script type="text/javascript" src="javascripts/jquery-3.2.1.min.js"></script>
@@ -5733,7 +5733,7 @@
 <script type="text/javascript" src="javascripts/convert.js"></script>
 <script type="text/javascript" src="javascripts/display.js"></script>
 <script type="text/javascript" src="javascripts/temp.js"></script>
-<script type="text/javascript" src="https://github.com/beanboy5310/ADngp3edit/edit/main/game.js"></script>
+<script type="text/javascript" src="javascripts/game.js"></script>
 <script type="text/javascript" src="javascripts/sha512.js"></script>
 </body>
 </html>
